@@ -77,7 +77,7 @@ python main.py
 
 ### Main UI
 
-![UI Preview](https://via.placeholder.com/800x400?text=LAN+Video+Call+UI)
+![UI Preview](https://github.com/Crystal-Flower/LAN_VC/blob/main/Screenshot%202025-08-10%20104650.png?raw=true)
 
 ---
 
